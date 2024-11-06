@@ -2,9 +2,9 @@ Tokyo Robotics is a Japanese robotics company, that produces the humanoid robot 
 
 We aim to create a world where robots do repetitive and hazardous tasks, while humans engage in work that requires their mind and heart.
 
-# GitHub Repositories
+# Repositories
 
-| Repository | Description | Stars |
+| Title | Description | Stars |
 | ---- | ---- | ---- |
 | [torobo_mujoco](https://github.com/TokyoRobotics/torobo_mujoco) | Models and example scripts used in MuJoCo. | ![Stars](https://img.shields.io/github/stars/TokyoRobotics/torobo_mujoco?style=flat-square) |
 | [torobo_usd_models](https://github.com/TokyoRobotics/torobo_usd_models) | USD models used in NVIDIA Isaac Sim. | ![Stars](https://img.shields.io/github/stars/TokyoRobotics/torobo_usd_models?style=flat-square) |
