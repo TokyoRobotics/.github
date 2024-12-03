@@ -7,6 +7,7 @@ We aim to create a world where robots do repetitive and hazardous tasks, while h
 | Title | Description | Stars |
 | ---- | ---- | ---- |
 | [torobo_mujoco](https://github.com/TokyoRobotics/torobo_mujoco) | Models and example scripts used in MuJoCo. | ![Stars](https://img.shields.io/github/stars/TokyoRobotics/torobo_mujoco?style=flat-square) |
+| [torobo_isaac_lab](https://github.com/TokyoRobotics/torobo_isaac_lab) | Reinforcement learning examples based on NVIDIA IsaacLab   | ![Stars](https://img.shields.io/github/stars/TokyoRobotics/torobo_isaac_lab?style=flat-square) |
 | [torobo_usd_models](https://github.com/TokyoRobotics/torobo_usd_models) | USD models used in NVIDIA Isaac Sim. | ![Stars](https://img.shields.io/github/stars/TokyoRobotics/torobo_usd_models?style=flat-square) |
 
 # SNS
